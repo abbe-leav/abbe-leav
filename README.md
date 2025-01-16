@@ -1,7 +1,7 @@
 # Hello, world! 👋
-### My name is Abbegail, but most people call me Abby. I'm a first year Interactive Design student at SAIT, with a major in **Web Design and Development!**
+### My name is Abbegail, but most people call me Abbe (or Abby). I'm a first year Interactive Design student at SAIT, with a major in **Web Design and Development!**
 
-I have also taken some SAIT classes already, including a Web Development course and a User Experience and Design course. I took a few computer science courses in high school as well.
+I have also taken some SAIT classes already, including a Web Development course and a User Experience and Design course. I took two semesters of the Software Development program, but I realized Web Design and Development is more my niche and so I switched into Interactive Design!
 
 In the coming semesters, I hope to:
 1. Refine my HTML and CSS coding skills
